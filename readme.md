@@ -42,6 +42,20 @@ A localização foi preparada pensando em um **Português Brasileiro natural**, 
 
 ---
 
+## Imagens
+
+<p align="center">
+  <img width="48%" alt="Dreams in the Witch House em Português" src="https://staticdelivery.nexusmods.com/mods/9857/images/1/1-1786493875-286793120.png" />
+  <img width="48%" alt="Dreams in the Witch House em Português" src="https://staticdelivery.nexusmods.com/mods/9857/images/1/1-1786493904-170665285.png" />
+</p>
+
+<p align="center">
+  <img width="48%" alt="Dreams in the Witch House em Português" src="https://staticdelivery.nexusmods.com/mods/9857/images/1/1-1786493928-1519642903.png" />
+  <img width="48%" alt="Dreams in the Witch House em Português" src="https://staticdelivery.nexusmods.com/mods/9857/images/1/1-1786493914-1533920045.png" />
+</p>
+
+---
+
 ## 📥 Download
 
 Baixe o arquivo:
